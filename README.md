@@ -54,34 +54,45 @@ Nada de e-mail, nome de cliente, dado da empresa, senha ou informação pessoal 
 
 ### Minha Tarefa Real
 
-_Qual tarefa da sua semana você escolheu e por que ela vale a pena?_
+_Escolhi o planejamento semanal de pautas educacionais sobre inteligência artificial e segurança digital para redes sociais, além da estruturação de uma reunião de diagnóstico de perfil para um novo cliente de consultoria. Essa tarefa vale a pena porque se repete toda semana e consome bastante tempo de pesquisa e organização; automatizar a estrutura inicial me permite focar na revisão técnica e na estratégia personalizada._
 
 ### Meus Atalhos
 
-_Conte quais modelos do kit você adaptou, o que ficou fixo e o que muda a cada uso._
+_Adaptei dois modelos da pasta 01-prompts: um voltado para criação de conteúdo estruturado e outro para preparação de reuniões de diagnóstico. Mantive fixa a estrutura de papel da IA, o tom de voz didático e o formato de saída em tópicos; deixei como variáveis apenas o tema específico da semana, o público-alvo e o objetivo de conversão de cada postagem ou reunião._
 
 ```text
-Cole aqui o seu primeiro atalho, já adaptado.
+Atue como um especialista em comunicação digital e tecnologia. Crie um roteiro de carrossel educativo para Instagram sobre [TEMA: golpes digitais usando clonagem de voz por IA]. 
+Público-alvo: [PÚBLICO: público geral e adultos acima de 50 anos]. 
+Objetivo: [OBJETIVO: alertar sobre o risco e ensinar 3 passos práticos de prevenção]. 
+Formato: Divida em 6 slides curtos, com linguagem acessível, sem jargões técnicos e com uma chamada para ação final convidando a compartilhar o alerta.
 ```
 
 ```text
-Cole aqui o seu segundo atalho, já adaptado.
+Atue como um consultor sênior de marketing digital e posicionamento. Prepare um roteiro de reunião de 30 minutos para apresentar o diagnóstico inicial de um perfil comercial no Instagram no nicho de [NICHO: prestação de serviços jurídicos].
+Contexto: [CONTEXTO: perfil com boas publicações técnicas, mas baixa interação e bio pouco clara].
+Formato: Organize a pauta em 4 blocos (Quebra-gelo, Pontos fortes, Pontos de melhoria na bio/conteúdo e Próximos passos), incluindo 3 perguntas estratégicas para fazer ao cliente.
 ```
 
 ### Minha Delegação
 
 ```text
-Cole aqui o pedido que você entregou à IA, com objetivo, contexto, recursos, limites e sucesso.
+Objetivo: Criar um plano editorial de 4 semanas com 12 ideias de conteúdos curtos sobre uso prático de Inteligência Artificial e segurança digital para iniciantes.
+Contexto: Gerencio um canal educacional voltado para desmistificar a tecnologia para pessoas comuns e pequenos empreendedores.
+Recursos: Use como base dúvidas frequentes sobre produtividade com prompts básicos, proteção contra links falsos e ferramentas gratuitas.
+Limites: Não sugira ferramentas pagas em dólar, evite termos técnicos em inglês sem tradução e não escreva os roteiros completos agora.
+Critério de sucesso: Entregar uma tabela organizada por semana, contendo tema, formato (Reels ou Carrossel) e o principal gancho de atenção de cada post.S
+IMPORTANTE: Antes de gerar a tabela final, apresente apenas o seu plano de ação em etapas e aguarde a minha aprovação.ss
 ```
 
 ### O Plano da IA
 
-_Cole o print do plano e conte o que você ajustou antes de a IA começar._
-
+<img width="1093" height="197" alt="{2B69642B-46BF-48C1-B819-A56DC22A4C0D}" src="https://github.com/user-attachments/assets/1ae0ea36-90e6-4894-bc75-3a567eb7e14c" />
+Pedi para a IA detalhar o plano de ação antes de gerar o conteúdo final para garantir que as regras fossem seguidas.
 ### O Resultado
 
-_Cole o print do resultado e conte como você conferiu antes de usar._
+<img width="935" height="692" alt="{38BA8A1F-FDAC-4A3C-901D-9CAA315C89F3}" src="https://github.com/user-attachments/assets/577d0b5c-9de2-429d-8b9a-e9d01cd24c93" />
+
 
 ### Como Foi para Você
 
-_Conte em poucas linhas o que mudou no seu dia a dia._
+O uso do kit me ajudou a estruturar melhor os prompts, garantindo mais controle e economia de tempo na criação de tarefas recorrentes.
